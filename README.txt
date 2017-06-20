@@ -1,5 +1,5 @@
 Instructions
 -----------------------------
-1. Open up git-bash
+1. Make sure you have python installed on your computer
 2. Go to folder with python_challenger.py file
-3. Type in "python challenger.py" to run application
+3. Double click on python_challenger.py file tp run application
